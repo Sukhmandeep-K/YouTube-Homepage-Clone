@@ -27,3 +27,13 @@ This project was built by following the **SuperSimpleDev** YouTube tutorial and 
 
 ## Status
 Completed
+
+
+## License & Disclaimer
+
+This project is created for educational and non-commercial purposes only.
+
+All trademarks, logos, and brand names (including YouTube) are the property of their respective owners.  
+This project is not affiliated with, endorsed by, or sponsored by YouTube.
+
+The code in this repository is original and written for learning purposes.
