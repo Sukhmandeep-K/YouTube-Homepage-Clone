@@ -25,15 +25,14 @@ This project was created by following and practicing concepts from the **SuperSi
 ## Credits
 This project was built by following the **SuperSimpleDev** YouTube tutorial and was created for learning and practice purposes.
 
-## Status
-Completed
 
 
 ## License & Disclaimer
 
-This project is created for educational and non-commercial purposes only.
+This project was created for educational and non-commercial purposes only.
 
-All trademarks, logos, and brand names (including YouTube) are the property of their respective owners.  
-This project is not affiliated with, endorsed by, or sponsored by YouTube.
+All trademarks, logos, and brand names are the property of their respective owners.  
+This project is not affiliated with, endorsed by, or sponsored by any company.
 
-The code in this repository is original and written for learning purposes.
+This project was built as part of a learning process using online tutorials and documentation.  
+The code was written by the author while following instructional resources and is intended solely for educational use.
